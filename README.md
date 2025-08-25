@@ -26,8 +26,8 @@ I strongly believe in the power of knowledge. Here are some of my notable certif
 ---
 
 ## 🚀 Projects  
-- 🔐 [Cybersecurity Scripts](https://github.com/kamlesh-4407/cybersecurity-scripts) – PenTesting & automation tools  
-- 💻 [Portfolio Website](https://github.com/kamlesh-4407/portfolio) – Personal portfolio in HTML/CSS  
+- 🔐 [Gametracker](https://github.com/kamlesh-4407/Game-tracker-) – Personal Gametracker 
+- 💻 [Image Location Finder](https://github.com/kamlesh-4407/Image_Location-Finder) – image location finder 
 
 ---
 ## 💻 Tech Stack:

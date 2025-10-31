@@ -22,6 +22,10 @@ I strongly believe in the power of knowledge. Here are some of my notable certif
 | Certificate Name | Issuing Organization | Link |
 |------------------|-----------------------|------|
 | Google Cybersecurity | Google | [Certificate](https://coursera.org/share/153866a1432d11137df83fdc7fb08a92) |
+| Database Management Essentials| University of Colorado | [Certificate](https://coursera.org/share/1dcf786fdcb315798558701fd7fa8af3)|
+| HTML and CSS in depth | Meta | [Certificate](https://coursera.org/share/56193bf0ba406d3a729dccac96c46de1) |
+| Building Web Applications in Django | University of Michigan | [Certificate](https://coursera.org/share/c88309402e7da545d66504ab64d04969) |
+
 
 ---
 

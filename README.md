@@ -31,7 +31,8 @@ I strongly believe in the power of knowledge. Here are some of my notable certif
 
 ## 🚀 Projects  
 - 🔐 [Gametracker](https://github.com/kamlesh-4407/Game-tracker-) – Personal Gametracker 
-- 💻 [Image Location Finder](https://github.com/kamlesh-4407/Image_Location-Finder) – image location finder 
+- 💻 [Image Location Finder](https://github.com/kamlesh-4407/Image_Location-Finder) – Image location finder
+- ⚙️ [digital-guardian](https://github.com/kamlesh-4407/digital-guardian) - Digital Guardian
 
 ---
 ## 💻 Tech Stack:
